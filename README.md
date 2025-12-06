@@ -9,5 +9,6 @@ My personal projects span a number of interests, including:
 Other interests include:
 
 - Working with atomic & immutable systems built on cloud-native technology.
+- Developing my home server setup using Docker and other distributed technologies.
 
 You can check out my portfolio [here](https://callum-jones19.github.io)!
